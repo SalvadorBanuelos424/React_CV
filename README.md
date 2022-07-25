@@ -1,6 +1,5 @@
 # React_CV, Inc,
-https://github.com/SalvadorBanuelos424/My_SQL_Employee_Tracker
-
+https://salvadorbanuelos424.github.io/React_CV/
 ![Badge](https://img.shields.io/badge/License-${license}-blue)
 
 ## Description
