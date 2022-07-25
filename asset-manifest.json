@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.692ada0f.css",
-    "main.js": "/static/js/main.c24772b2.js",
-    "static/js/787.4573b362.chunk.js": "/static/js/787.4573b362.chunk.js",
-    "static/media/2air.png": "/static/media/2air.589604955871347ef9a2.png",
-    "static/media/5duty.png": "/static/media/5duty.57e86e6b0ea7094c425a.png",
-    "static/media/1park.jpg": "/static/media/1park.2aec75e5d95b286b0011.jpg",
-    "static/media/6pass.png": "/static/media/6pass.ef144d23b2429f096458.png",
-    "static/media/4hor.jpg": "/static/media/4hor.96a11a3d0f5b8c326f6d.jpg",
-    "static/media/3run.jpg": "/static/media/3run.23f6692cf64949b5383d.jpg",
-    "static/media/0sal.svg": "/static/media/0sal.f9d5372689c8dc510e259d3e7a10c78b.svg",
-    "static/media/sal.docx": "/static/media/sal.f1bd627253e1e723810d.docx",
-    "index.html": "/index.html",
-    "main.692ada0f.css.map": "/static/css/main.692ada0f.css.map",
-    "main.c24772b2.js.map": "/static/js/main.c24772b2.js.map",
-    "787.4573b362.chunk.js.map": "/static/js/787.4573b362.chunk.js.map"
+    "main.css": "/React_CV/static/css/main.692ada0f.css",
+    "main.js": "/React_CV/static/js/main.247253e9.js",
+    "static/js/787.4573b362.chunk.js": "/React_CV/static/js/787.4573b362.chunk.js",
+    "static/media/2air.png": "/React_CV/static/media/2air.589604955871347ef9a2.png",
+    "static/media/5duty.png": "/React_CV/static/media/5duty.57e86e6b0ea7094c425a.png",
+    "static/media/1park.jpg": "/React_CV/static/media/1park.2aec75e5d95b286b0011.jpg",
+    "static/media/6pass.png": "/React_CV/static/media/6pass.ef144d23b2429f096458.png",
+    "static/media/4hor.jpg": "/React_CV/static/media/4hor.96a11a3d0f5b8c326f6d.jpg",
+    "static/media/3run.jpg": "/React_CV/static/media/3run.23f6692cf64949b5383d.jpg",
+    "static/media/0sal.svg": "/React_CV/static/media/0sal.f9d5372689c8dc510e259d3e7a10c78b.svg",
+    "static/media/sal.docx": "/React_CV/static/media/sal.f1bd627253e1e723810d.docx",
+    "index.html": "/React_CV/index.html",
+    "main.692ada0f.css.map": "/React_CV/static/css/main.692ada0f.css.map",
+    "main.247253e9.js.map": "/React_CV/static/js/main.247253e9.js.map",
+    "787.4573b362.chunk.js.map": "/React_CV/static/js/787.4573b362.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.692ada0f.css",
-    "static/js/main.c24772b2.js"
+    "static/js/main.247253e9.js"
   ]
 }
