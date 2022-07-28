@@ -18,8 +18,8 @@ function Portfolio() {
         
       <PortfolioItem className='flex-auto' name='School Website' image={newport}/>
         <h1 className='flex font-bold bg-sky-200 w-full mx-4 p-2 text-center rounded-b-3xl text-slate-700 text-3xl'>-REACT -TAILWING -JAVASCRIPT
-        <a href='https://github.com/uhMammoth/school-website.git'  ><FaGithub className='text-6xl m-4 hover:text-sky-400'/></a>
-        <a  href='https://github.com/SalvadorBanuelos424/school-website'  ><FaLink className='text-6xl m-4 hover:text-sky-400 '/></a>
+        <a href='https://github.com/SalvadorBanuelos424/school-website'  ><FaGithub className='text-6xl m-4 hover:text-sky-400'/></a>
+        <a  href='https://salvadorbanuelos424.github.io/'  ><FaLink className='text-6xl m-4 hover:text-sky-400 '/></a>
         </h1>
 
         <PortfolioItem className='flex-auto' name='Park View' image={Port1}/>
