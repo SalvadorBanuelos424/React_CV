@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="bg-slate-200 w-full h-full">
+    <div className="bg-slate-500 w-full h-full">
       <Router>
         <Navbar />
         <Routes>
