@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_CV/static/css/main.692ada0f.css",
-    "main.js": "/React_CV/static/js/main.b24652bc.js",
+    "main.css": "/React_CV/static/css/main.d77a8d7a.css",
+    "main.js": "/React_CV/static/js/main.45d05b14.js",
     "static/js/787.4573b362.chunk.js": "/React_CV/static/js/787.4573b362.chunk.js",
     "static/media/2air.png": "/React_CV/static/media/2air.589604955871347ef9a2.png",
     "static/media/5duty.png": "/React_CV/static/media/5duty.57e86e6b0ea7094c425a.png",
@@ -13,12 +13,12 @@
     "static/media/0sal.svg": "/React_CV/static/media/0sal.f9d5372689c8dc510e259d3e7a10c78b.svg",
     "static/media/sal.docx": "/React_CV/static/media/sal.f1bd627253e1e723810d.docx",
     "index.html": "/React_CV/index.html",
-    "main.692ada0f.css.map": "/React_CV/static/css/main.692ada0f.css.map",
-    "main.b24652bc.js.map": "/React_CV/static/js/main.b24652bc.js.map",
+    "main.d77a8d7a.css.map": "/React_CV/static/css/main.d77a8d7a.css.map",
+    "main.45d05b14.js.map": "/React_CV/static/js/main.45d05b14.js.map",
     "787.4573b362.chunk.js.map": "/React_CV/static/js/787.4573b362.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.692ada0f.css",
-    "static/js/main.b24652bc.js"
+    "static/css/main.d77a8d7a.css",
+    "static/js/main.45d05b14.js"
   ]
 }
